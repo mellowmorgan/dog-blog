@@ -1,0 +1,23 @@
+h1  {
+  color: rgb(107, 75, 30);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 100;
+}
+
+h2  {
+  color: darkslategrey;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+
+h3  {
+  color: slategray;
+  font-weight: 100;
+}
+
+body  {
+  color: rgb(14, 27, 46);
+  font-family: sans-serif;
+  font-weight: 100;
+  background-color: rgb(167, 211, 231);
+}
