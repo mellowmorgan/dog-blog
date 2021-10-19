@@ -33,3 +33,10 @@ button{
   background-color:rgb(15, 15, 54);
   color: whitesmoke;
 }
+.dark-theme h1 {
+  color:white;
+}
+
+.dark-theme h2  {
+  color: bisque;
+}
